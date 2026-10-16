@@ -1,0 +1,21 @@
+StudentID,Name,Department,Math,Science,English,ComputerScience,AI_Basics,Attendance,TotalMarks,AverageMarks,Grade,AcademicPass,AttendanceStatus,FinalStatus,Remarks
+S101,Aarav Sharma,Computer Science,88,92,85,95,90,94.5,450.0,90.0,A+,True,Eligible,Pass,Cleared with good attendance
+S102,Diya Patel,Artificial Intelligence,94,96,89,98,95,97.0,472.0,94.4,A+,True,Eligible,Pass,Cleared with good attendance
+S103,Rohan Verma,Information Technology,72,68,75,70,65,82.0,350.0,70.0,B,True,Eligible,Pass,Cleared with good attendance
+S104,Ananya Iyer,Data Science,91,89,92,94,93,91.5,459.0,91.8,A+,True,Eligible,Pass,Cleared with good attendance
+S105,Kabir Singh,Computer Science,45,52,58,48,50,76.0,253.0,50.6,D,True,Eligible,Pass,Cleared with good attendance
+S106,Meera Joshi,Artificial Intelligence,82,85,80,88,86,89.0,421.0,84.2,A,True,Eligible,Pass,Cleared with good attendance
+S107,Vikram Malhotra,Information Technology,60,55,62,58,64,78.5,299.0,59.8,D,True,Eligible,Pass,Cleared with good attendance
+S108,Sneha Kulkarni,Data Science,95,98,94,97,99,98.5,483.0,96.6,A+,True,Eligible,Pass,Cleared with good attendance
+S109,Aditya Nair,Computer Science,38,42,50,45,40,71.0,215.0,43.0,F,False,Shortage,Fail,Failed in: Math; Attendance Shortage (71.0%)
+S110,Pooja Reddy,Artificial Intelligence,78,81,84,79,83,88.0,405.0,81.0,A,True,Eligible,Pass,Cleared with good attendance
+S111,Rahul Gupta,Information Technology,52,48,55,60,54,74.0,269.0,53.8,D,True,Shortage,Conditional Pass (Detained),Academic pass but Attendance Shortage (74.0%)
+S112,Ishita Sen,Data Science,86,90,88,91,89,93.0,444.0,88.8,A,True,Eligible,Pass,Cleared with good attendance
+S113,Siddharth Rao,Computer Science,67,73,70,75,72,85.5,357.0,71.4,B,True,Eligible,Pass,Cleared with good attendance
+S114,Kavya Menon,Artificial Intelligence,90,93,91,92,94,96.0,460.0,92.0,A+,True,Eligible,Pass,Cleared with good attendance
+S115,Arjun Das,Information Technology,35,40,42,38,45,69.5,200.0,40.0,F,False,Shortage,Fail,"Failed in: Math, ComputerScience; Attendance Shortage (69.5%)"
+S116,Riya Mehta,Data Science,79,83,85,80,82,87.0,409.0,81.8,A,True,Eligible,Pass,Cleared with good attendance
+S117,Varun Chopra,Computer Science,84,80,78,86,85,90.0,413.0,82.6,A,True,Eligible,Pass,Cleared with good attendance
+S118,Tanvi Deshmukh,Artificial Intelligence,92,95,90,96,93,95.5,466.0,93.2,A+,True,Eligible,Pass,Cleared with good attendance
+S119,Kunal Bhatia,Information Technology,58,62,60,59,61,80.0,300.0,60.0,C,True,Eligible,Pass,Cleared with good attendance
+S120,Neha Choudhary,Data Science,75,78,80,82,77,86.5,392.0,78.4,B,True,Eligible,Pass,Cleared with good attendance

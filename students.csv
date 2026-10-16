@@ -1,0 +1,21 @@
+StudentID,Name,Department,Math,Science,English,ComputerScience,AI_Basics,Attendance
+S101,Aarav Sharma,Computer Science,88,92,85,95,90,94.5
+S102,Diya Patel,Artificial Intelligence,94,96,89,98,95,97.0
+S103,Rohan Verma,Information Technology,72,68,75,70,65,82.0
+S104,Ananya Iyer,Data Science,91,89,92,94,93,91.5
+S105,Kabir Singh,Computer Science,45,52,58,48,50,76.0
+S106,Meera Joshi,Artificial Intelligence,82,85,80,88,86,89.0
+S107,Vikram Malhotra,Information Technology,60,55,62,58,64,78.5
+S108,Sneha Kulkarni,Data Science,95,98,94,97,99,98.5
+S109,Aditya Nair,Computer Science,38,42,50,45,40,71.0
+S110,Pooja Reddy,Artificial Intelligence,78,81,84,79,83,88.0
+S111,Rahul Gupta,Information Technology,52,48,55,60,54,74.0
+S112,Ishita Sen,Data Science,86,90,88,91,89,93.0
+S113,Siddharth Rao,Computer Science,67,73,70,75,72,85.5
+S114,Kavya Menon,Artificial Intelligence,90,93,91,92,94,96.0
+S115,Arjun Das,Information Technology,35,40,42,38,45,69.5
+S116,Riya Mehta,Data Science,79,83,85,80,82,87.0
+S117,Varun Chopra,Computer Science,84,80,78,86,85,90.0
+S118,Tanvi Deshmukh,Artificial Intelligence,92,95,90,96,93,95.5
+S119,Kunal Bhatia,Information Technology,58,62,60,59,61,80.0
+S120,Neha Choudhary,Data Science,75,78,80,82,77,86.5
